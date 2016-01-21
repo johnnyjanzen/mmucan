@@ -1,0 +1,246 @@
+# Site settings
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Hugo Agency Theme"
+theme = "hugo-agency-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) or
+	# most longer texts.
+	#
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Your name"
+	description = "Your description"
+
+	# Since this template is static, the contact form uses www.formspree.io as a
+	# proxy. The form makes a POST request to their servers to send the actual
+	# email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+	email = "your@email.com"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Music Mission Ukraine Canada"
+		services = "Ministries"
+		portfolio = "Blog"
+		about = "About"
+		team = "Team"
+		contact = "Donate"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background image of the hero, replace 'header-bg.jpg' in
+		# the 'static/img' folder.
+		title = "Using music to proclaim God's glory!"
+		subtitle = "Music Mission Ukraine Canada"
+		buttonText = "Tell me more"
+
+
+	# Services section
+	[params.services]
+		title = "Ministries"
+		subtitle = "MMUC works in a number of areas of need."
+
+        [[params.services.row]]
+
+            [[params.services.row.list]]
+                icon = "fa-shopping-cart"
+                title = "Evangelism"
+                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+            [[params.services.row.list]]
+                icon = "fa-laptop"
+                title = "IDP Ministries"
+                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+            [[params.services.row.list]]
+                icon = "fa-lock"
+                title = "Food services"
+                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+								[[params.services.row.list]]
+										icon = "fa-shopping-cart"
+										title = "Evangelism"
+										description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+								[[params.services.row.list]]
+										icon = "fa-laptop"
+										title = "IDP Ministries"
+										description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+								[[params.services.row.list]]
+										icon = "fa-lock"
+										title = "Food services"
+										description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+
+	# Portfolio section
+	[params.portfolio]
+		# All projects defined in their own files. You can find example projects
+		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+		# at the root of this Hugo site.
+		# For more informtion take a look at the README.
+		title = "Blog"
+		subtitle = "Lorem ipsum dolor sit amet consectetur."
+
+		[params.portfolio.modal]
+            client = "Client"
+            date = "Date"
+            category = "Category"
+            buttonText = "Close project"
+
+
+    # About section
+	[params.about]
+		title = "Our Story"
+		subtitle = "By God's Grace."
+		endpoint = "Be part<br>of our<br>story!"
+
+		# The events will be listed from the top to the bottom.
+		# All images are stored under 'static/img/about'.
+		# Replace them with your own.
+		[[params.about.events]]
+			img = "1.jpg"
+			date = "2006"
+			title = "Early Concert Collaborations"
+			description = "In 2006 Wes Janzen was invited to do concert collaborations with the Kyiv Symphony Orchestra and Chorus."
+
+		[[params.about.events]]
+			img = "2.jpg"
+			date = "2007"
+			title = "Canadian Donations"
+			description = "As need in Ukraine was seen by Canadian friends through ministry reports, donations began toward philanthropic activities in Ukraine."
+
+		[[params.about.events]]
+			img = "3.jpg"
+			date = "2013"
+			title = "EuroMaidan"
+			description = "The EuroMaidan protests."
+
+		[[params.about.events]]
+			img = "4.jpg"
+			date = "2014-2016"
+			title = "War in Donbas"
+			description = "War is Currently in Donbas, making a big refugee crisis that Music Mission Ukraine Canada is responding to."
+
+
+	# Team section
+	[params.team]
+		title = "Our amazing team"
+		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+
+		# All team member's pictures are stored under 'static/img/team'.
+		# Replace them with your own too.
+		[[params.team.members]]
+			img = "1.jpg"
+			name = "Wes Janzen"
+			position = "President"
+			social = [
+				["fa-twitter", "#"],
+				["fa-facebook", "#"],
+				["fa-linkedin", "#"]
+			]
+
+		[[params.team.members]]
+			img = "2.jpg"
+			name = "Kim Janzen"
+			position = "Outreach"
+			social = [
+				["fa-twitter", "#"],
+				["fa-facebook", "#"],
+				["fa-linkedin", "#"]
+			]
+
+		[[params.team.members]]
+			img = "3.jpg"
+			name = "Michael Berg"
+			position = "Board Chairman"
+			social = [
+				["fa-twitter", "#"],
+				["fa-facebook", "#"],
+				["fa-linkedin", "#"]
+			]
+
+	# Client section
+	# All the clients' logos are stored under 'static/img/logos'.
+	# Replace them with your clients's logos.
+	#[[params.clients]]
+	#	logo = "envato.jpg"
+	#	link = "#"
+
+	#[[params.clients]]
+	#	logo = "designmodo.jpg"
+	#	link = "#"
+
+	#[[params.clients]]
+	#	logo = "themeforest.jpg"
+	#	link = "#"
+
+	#[[params.clients]]
+	#	logo = "creative-market.jpg"
+	#	link = "#"
+
+
+	# Contact section
+	[params.contact]
+		title = "Donate"
+		subtitle  = "Donations Can be made."
+		buttonText = "Send message"
+
+		# 'warning' defines error messages for invalid inputs
+		[params.contact.form.name]
+			text = "Your Name *"
+			warning = "Please enter your name."
+
+		[params.contact.form.email]
+			text = "Your Email *"
+			warning = "Please enter your email address."
+
+		[params.contact.form.phone]
+			text = "Your Phone *"
+			warning = "Please enter your phone number."
+
+		[params.contact.form.message]
+			text = "Your Message *"
+			warning = "Please enter a message."
+
+
+	# Footer section
+	[params.footer]
+		copyright = "Published under the Apache License 2.0."
+
+		[[params.footer.social]]
+			icon = "fa-twitter"
+			link = "#"
+
+		[[params.footer.social]]
+			icon = "fa-facebook"
+			link = "#"
+
+		[[params.footer.social]]
+			icon = "fa-linkedin"
+			link = "#"
+
+		[[params.footer.quicklinks]]
+			text = "Privacy Policy"
+			link = "#"
+
+		[[params.footer.quicklinks]]
+			text = "Terms of Use"
+			link = "#"
