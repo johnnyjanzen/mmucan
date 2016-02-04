@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://mmucanada.org/mmucan/public/"
 languageCode = "en-us"
-title = "Hugo Agency Theme"
+title = "MMUC"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
