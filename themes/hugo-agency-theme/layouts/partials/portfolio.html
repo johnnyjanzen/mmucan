@@ -1,0 +1,53 @@
+{{ "<!-- Portfolio Grid Section -->" | safeHTML }}
+
+{{ partial "header.html" . }}
+<section id="portfolio" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">{{ with .Site.Params.portfolio.title }}{{ . }}{{ end }}</h2>
+                <h3 class="section-subheading text-muted">{{ with .Site.Params.portfolio.subtitle }}{{ . | markdownify }}{{ end }}</h3>
+            </div>
+        </div>
+        <div class="row">
+            {{ range first 5 .Site.Pages }}
+            {{ .Render "li" }}
+
+            {{ end }}
+
+            <article class="{{ .Section }} featured">
+
+            <article class="{{ .Section }}">
+
+            	<div class="col-md-4 col-sm-6 portfolio-item">
+
+            		<h2 class="post-title"><a href="post/">See All</a></h2>
+
+            		<!--span class="post-more"><a href="{{ .Permalink }}">See All <i class="icon-arrow-right"></i></a></span-->
+            	</div>
+            </article>
+
+        </div>
+    </div>
+    <!--div id="post-index" class="container">
+
+		<main class="content" role="main">
+
+			<div class="post-list">
+				<div id="push">
+
+			{{ $paginator := .Paginator 6}}
+
+			{{ range $index, $page := .Paginator.Pages }}
+			  {{ .Render "li" }}
+			{{ end }}
+
+				</div>
+			</div>
+
+			{{ partial "pagination.html" $paginator }}
+
+		</main-->
+
+	</div>
+</section>
