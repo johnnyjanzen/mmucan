@@ -10,6 +10,6 @@ deploy:
      - install-packages:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
-        token: GIT_TOKEN
+        token: 32ac9501ae344cb98d652b4f5c661d7c0ba147f8
         domain: johnnyjanzen.github.io
         basedir: public
