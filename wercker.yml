@@ -1,4 +1,4 @@
-box: python:wheezy
+box: debian
 build:
   steps:
     - arjen/hugo-build:
@@ -9,8 +9,7 @@ deploy:
   steps:
     - install-packages:
         packages: git ssh-client
-    - lukevivier/gh-pages@0.2.1:
+    - lukevivier/gh-pages:
         token: $GIT_TOKEN
-        domain: github.com
-        repo: johnnyjanzen/johnnyjanzen.github.io
         basedir: public
+        domain: johnnyjanzen.github.io
