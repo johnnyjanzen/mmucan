@@ -19,11 +19,12 @@
                     <a href="#page-top"></a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#services">{{ with .Site.Params.navigation.services }}{{ . }}{{ end }}</a>
+                    <a class="page-scroll" href="#statement">{{ with .Site.Params.navigation.statement }}{{ . }}{{ end }}</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#portfolio">{{ with .Site.Params.navigation.statement }}{{ . }}{{ end }}</a>
+                    <a class="page-scroll" href="#services">{{ with .Site.Params.navigation.services }}{{ . }}{{ end }}</a>
                 </li>
+
                 <li>
                     <a class="page-scroll" href="#portfolio">{{ with .Site.Params.navigation.portfolio }}{{ . }}{{ end }}</a>
                 </li>
@@ -34,8 +35,12 @@
                     <a class="page-scroll" href="#team">{{ with .Site.Params.navigation.team }}{{ . }}{{ end }}</a>
                 </li>
                 <li>
+                    <a class="page-scroll" href="#calendar">{{ with .Site.Params.navigation.calendar }}{{ . }}{{ end }}</a>
+                </li>
+                <li>
                     <a class="page-scroll" href="#contact">{{ with .Site.Params.navigation.contact }}{{ . }}{{ end }}</a>
                 </li>
+
             </ul>
         </div>
         {{ "<!-- /.navbar-collapse -->" | safeHTML }}
