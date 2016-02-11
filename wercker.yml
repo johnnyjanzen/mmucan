@@ -1,4 +1,4 @@
-box: debian
+box: python:wheezy
 build:
   steps:
     - arjen/hugo-build:
@@ -7,8 +7,6 @@ build:
         flags: --buildDrafts=true
 deploy:
   steps:
-    - install-packages:
-        packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
         domain: github.com
