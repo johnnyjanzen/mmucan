@@ -215,8 +215,8 @@ googleAnalytics = ""
 
 	# Contact section
 	[params.contact]
-		title = "Donate"
-		subtitle  = "Donations Can be made."
+		title = "Contact"
+		subtitle  = "Subscribe to our mailing list."
 		buttonText = "Send message"
 
 		# 'warning' defines error messages for invalid inputs
