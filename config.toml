@@ -65,32 +65,32 @@ googleAnalytics = ""
 
             [[params.services.row.list]]
                 icon = "fa-group"
-                title = "IDP Ministries"
-                description = "MMUC outreach to internally displaced people in Ukraine includes food, clothing, blankets, medicine, fellowship and Bibles.."
+                title = "Internally Displaced People"
+                description = "Since 2014, Music Mission Ukraine has been caring for thousands of internally displaced Ukrainians.  These are people who have fled their homes, often with only the clothes on their back.  Some live in Kyiv.  Others live near the war zone.  MMUC sends blankets, Bibles, candles, food, medications and other essential living supplies to those in need.  Many of these are elderly widows.  Programs serving internally displaced people in Kyiv include members of KSOC, who bring comfort through prayers, music and music education activities for IDP children."
 
             [[params.services.row.list]]
                 icon = "fa-music"
-                title = "Kiev Symphony Orchestra and Chorus"
-                description = "The KSOC presents outreach evangelism concerts sin Ukraine, Eastern Europe, and North America."
+                title = "Evangelism and discipleship"
+                description = "Evangelism and discipleship are core to all Music Mission Ukraine Canada activities.  Bible distribution and Bible teaching are part of all of our programs.  All friendship-evangelism outreach concerts of the Kyiv Symphony Orchestra and Chorus are rich in Biblical content.  Many concerts are sung in the Ukrainian language, with words projected on large screen to enhance clarity and understanding.  MMUC missionary Kim Janzen currently leads a weekly prayer meeting of widows, a weekly “Experiencing God” Bible study for pensioners, and two Saturday morning Bible lessons that reach over 400 pensioners each week."
 
             [[params.services.row.list]]
                 icon = "fa-book"
-                title = "Bible Studies"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                title = "Kyiv Symphony Orchestra and Chorus (KSOC)"
+                description = "The Kyiv Symphony Orchestra and Chorus (KSOC) is the musical arm of MMUC.  KSOC shares friendship evangelism concerts throughly Ukraine.  Recent Music Mission Ukraine Canada sponsored concerts in Ukraine included Zaparozhe, Lviv, Irpin and Lutsk.  KSOC also travels to Canada from time to time to share the gospel and stories of God’s grace."
 								[[params.services.row.list]]
 										icon = "fa-child"
-										title = "Summer Bible Camps"
-										description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+										title = "Widows"
+										description = "Music Mission Ukraine Canada is also reaching out to a whole new generation of widows who have lost husbands in the recent war.  "
 
 								[[params.services.row.list]]
 										icon = "fa-globe"
-										title = "Emergency Relief"
-										description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+										title = "Bible distribution, preaching and teaching "
+										description = "The Christian faith is clearly presented in the sacred Holy Bible.  Sharing these scriptures is part of the work of Music Mission Ukraine Canada.  The Bible in various languages, versions and styles such as large print Bibles for the sight impaired, or colourful illustrated  Bibles for children, are readily available through the Ukrainian Bible Society in Kyiv.  Music Mission Ukraine Canada missionaries Wes and Kim Janzen preach and teach from the Bible each week.  Their calling is to share the glorious gospel of the Lord Jesus Christ with others."
 
 								[[params.services.row.list]]
 										icon = "fa-cutlery"
-										title = "Food services"
-										description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+										title = "Eye care for widows and internally displaced people"
+										description = "A Music Mission Ukraine Canada eye doctor working in Kyiv cares for internally displaced people and widows, in the city of Kyiv.  Through this important outreach many can now see clearly and also obtain appropriate medical referrals for other medical needs.  Prescription eye glasses are ordered locally in Kyiv for a fraction of what they would cost in Canada.  "
 
 	# Portfolio section
 	[params.portfolio]
