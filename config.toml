@@ -64,31 +64,31 @@ googleAnalytics = ""
         [[params.services.row]]
 
             [[params.services.row.list]]
-                icon = "fa-shopping-cart"
-                title = "Evangelism"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-
-            [[params.services.row.list]]
-                icon = "fa-laptop"
+                icon = "fa-group"
                 title = "IDP Ministries"
-                description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+                description = "MMUC outreach to internally displaced people in Ukraine includes food, clothing, blankets, medicine, fellowship and Bibles.."
 
             [[params.services.row.list]]
-                icon = "fa-lock"
-                title = "Food services"
+                icon = "fa-music"
+                title = "Kiev Symphony Orchestra and Chorus"
+                description = "The KSOC presents outreach evangelism concerts sin Ukraine, Eastern Europe, and North America."
+
+            [[params.services.row.list]]
+                icon = "fa-book"
+                title = "Bible Studies"
                 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
 								[[params.services.row.list]]
-										icon = "fa-shopping-cart"
-										title = "Evangelism"
+										icon = "fa-child"
+										title = "Summer Bible Camps"
 										description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
 
 								[[params.services.row.list]]
-										icon = "fa-laptop"
-										title = "IDP Ministries"
+										icon = "fa-globe"
+										title = "Emergency Relief"
 										description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
 
 								[[params.services.row.list]]
-										icon = "fa-lock"
+										icon = "fa-cutlery"
 										title = "Food services"
 										description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
 
