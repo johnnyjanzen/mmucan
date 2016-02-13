@@ -13,6 +13,14 @@ body {
     color: #777;
 }
 
+.text-white {
+    color: #ffffff;
+}
+
+.double-space {
+    line-height: 200%;
+}
+
 .text-primary {
     color: #fed136;
 }
@@ -239,7 +247,7 @@ fieldset[disabled] .btn-xl.active {
         -moz-transition: padding .3s;
         transition: padding .3s;
         background-color: #222;
-      
+
     }
 
     .navbar-default .navbar-brand {

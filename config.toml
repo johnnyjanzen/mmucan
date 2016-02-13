@@ -43,7 +43,7 @@ googleAnalytics = ""
 		about = "About"
 		team = "Team"
 		calendar = "Tour"
-		contact = "Contact"
+		contact = "Contact & Donate"
 
 
 	# Hero section
@@ -216,9 +216,11 @@ googleAnalytics = ""
 
 	# Contact section
 	[params.contact]
-		title = "Contact"
+		title = "Contact & Donate"
 		subtitle  = "Subscribe to our mailing list."
-		buttonText = "Send message"
+		donateText = "Please send your donation, clearly marked “Music Mission Ukraine Canada” in the memo line to Multination Missions Foundation, P. O. Box 2401, Abbotsford, BC, V3T 4X3  or phone Helmut Wiens at 778 549 8031 to make a credit card donation.  Donations are tax deductible.  Music Mission Ukraine Canada is an agent of Multi Nation Missions Foundation.  MMF is a Canadian Charitable Organization. BN Regd. N. 80737560RR0001."
+
+		
 
 		# 'warning' defines error messages for invalid inputs
 		[params.contact.form.name]
