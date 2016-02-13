@@ -37,12 +37,12 @@ googleAnalytics = ""
 	# Navigation
 	[params.navigation]
 		brand = "Music Mission Ukraine Canada"
-		statement = "About"
+		statement = "Statement"
 		services = "Ministries"
-		portfolio = "Blog"
-		about = "Story"
+		portfolio = "Prayer"
+		about = "About"
 		team = "Team"
-		calendar = "Calendar"
+		calendar = "Tour"
 		contact = "Contact"
 
 
@@ -50,8 +50,9 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "Using music to proclaim God's glory!"
+		title = "Kyiv Symphony Orchestra and Chorus"
 		subtitle = "Music Mission Ukraine Canada"
+		subsubtitle = "Wes and Kim Janzen"
 		buttonText = "Tell me more"
 
 
@@ -97,8 +98,8 @@ googleAnalytics = ""
 		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
 		# at the root of this Hugo site.
 		# For more informtion take a look at the README.
-		title = "Blog"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
+		title = "Prayer"
+		subtitle = "Ministry updates and prayer requests."
 
 		[params.portfolio.modal]
             client = "Client"
@@ -187,7 +188,7 @@ googleAnalytics = ""
 				description = "Music Mission Ukraine Canada (MMUC) exists to proclaim the gospel of Jesus Christ and to provide humanitarian assistance to the needy, including internally displaced people, widows and orphans in Ukraine.  Through Bibles, great sacred classical musical masterpieces that come from scripture, Bible studies and camps, educational programs, Biblical preaching, teaching and discipleship, MMUC is spreading the gospel of Jesus Christ.  Through Ukrainian musicians in the Kyiv Symphony Orchestra and Chorus (KSOC) the gospel is shared through friendship-evangelism concerts in Ukraine and sacred concerts in Canada.   Through MMUC, needy Ukrainians receive humanitarian assistance in the form of food, clothing, blankets, medicine, eye care, shelter and other essential living supplies."
 
 				[params.calendar]
-					title = "Calendar"
+					title = "Tour Dates"
 					subtitle = ""
 
 
