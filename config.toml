@@ -68,18 +68,20 @@ googleAnalytics = ""
                 title = "Internally Displaced People"
                 description = "Since 2014, Music Mission Ukraine has been caring for thousands of internally displaced Ukrainians.  These are people who have fled their homes, often with only the clothes on their back.  Some live in Kyiv.  Others live near the war zone.  MMUC sends blankets, Bibles, candles, food, medications and other essential living supplies to those in need.  Many of these are elderly widows.  Programs serving internally displaced people in Kyiv include members of KSOC, who bring comfort through prayers, music and music education activities for IDP children."
 
-            [[params.services.row.list]]
-                icon = "fa-music"
-                title = "Evangelism and discipleship"
-                description = "Evangelism and discipleship are core to all Music Mission Ukraine Canada activities.  Bible distribution and Bible teaching are part of all of our programs.  All friendship-evangelism outreach concerts of the Kyiv Symphony Orchestra and Chorus are rich in Biblical content.  Many concerts are sung in the Ukrainian language, with words projected on large screen to enhance clarity and understanding.  MMUC missionary Kim Janzen currently leads a weekly prayer meeting of widows, a weekly “Experiencing God” Bible study for pensioners, and two Saturday morning Bible lessons that reach over 400 pensioners each week."
+								[[params.services.row.list]]
+		                icon = "fa-music"
+		                title = "Kyiv Symphony Orchestra and Chorus (KSOC)"
+		                description = "The Kyiv Symphony Orchestra and Chorus (KSOC) is the musical arm of MMUC.  KSOC shares friendship evangelism concerts throughly Ukraine.  Recent Music Mission Ukraine Canada sponsored concerts in Ukraine included Zaparozhe, Lviv, Irpin and Lutsk.  KSOC also travels to Canada from time to time to share the gospel and stories of God’s grace."
 
             [[params.services.row.list]]
                 icon = "fa-book"
-                title = "Kyiv Symphony Orchestra and Chorus (KSOC)"
-                description = "The Kyiv Symphony Orchestra and Chorus (KSOC) is the musical arm of MMUC.  KSOC shares friendship evangelism concerts throughly Ukraine.  Recent Music Mission Ukraine Canada sponsored concerts in Ukraine included Zaparozhe, Lviv, Irpin and Lutsk.  KSOC also travels to Canada from time to time to share the gospel and stories of God’s grace."
+                title = "Evangelism and discipleship"
+                description = "Evangelism and discipleship are core to all Music Mission Ukraine Canada activities.  Bible distribution and Bible teaching are part of all of our programs.  All friendship-evangelism outreach concerts of the Kyiv Symphony Orchestra and Chorus are rich in Biblical content.  Many concerts are sung in the Ukrainian language, with words projected on large screen to enhance clarity and understanding.  MMUC missionary Kim Janzen currently leads a weekly prayer meeting of widows, a weekly “Experiencing God” Bible study for pensioners, and two Saturday morning Bible lessons that reach over 400 pensioners each week."
+
+
 								[[params.services.row.list]]
 										icon = "fa-child"
-										title = "Widows"
+										title = "Young Widows"
 										description = "Music Mission Ukraine Canada is also reaching out to a whole new generation of widows who have lost husbands in the recent war.  "
 
 								[[params.services.row.list]]
@@ -88,7 +90,7 @@ googleAnalytics = ""
 										description = "The Christian faith is clearly presented in the sacred Holy Bible.  Sharing these scriptures is part of the work of Music Mission Ukraine Canada.  The Bible in various languages, versions and styles such as large print Bibles for the sight impaired, or colourful illustrated  Bibles for children, are readily available through the Ukrainian Bible Society in Kyiv.  Music Mission Ukraine Canada missionaries Wes and Kim Janzen preach and teach from the Bible each week.  Their calling is to share the glorious gospel of the Lord Jesus Christ with others."
 
 								[[params.services.row.list]]
-										icon = "fa-cutlery"
+										icon = "fa-eye"
 										title = "Eye care for widows and internally displaced people"
 										description = "A Music Mission Ukraine Canada eye doctor working in Kyiv cares for internally displaced people and widows, in the city of Kyiv.  Through this important outreach many can now see clearly and also obtain appropriate medical referrals for other medical needs.  Prescription eye glasses are ordered locally in Kyiv for a fraction of what they would cost in Canada.  "
 
@@ -121,63 +123,93 @@ googleAnalytics = ""
 			img = "1.jpg"
 			date = "2006"
 			title = "Early Concert Collaborations"
-			description = "In 2006 Wes Janzen was invited to do concert collaborations with the Kyiv Symphony Orchestra and Chorus."
+			description = "Wes Janzen guest conducted Kyiv Symphony Orchestra and Chorus for the first time in their first-ever performance of Haydn Creation.  This sacred masterpiece, taken from the Bible and Milton’ Paradise Lost, brought tears of joy to  Kyiv Symphony Orchestra and Chorus musicians.  Creation was essentially new to them as it had been previously suppressed by communist authorities.  After this first project with Kyiv Symphony Orchestra and Chorus, Wes returned to Kyiv each year, with duration of visits increasing year by year.  Wes and Kim Janzen continued to serve Missions Fest Vancouver and teach at Trinity Western University."
 
 		[[params.about.events]]
 			img = "2.jpg"
 			date = "2007"
-			title = "Canadian Donations"
-			description = "As need in Ukraine was seen by Canadian friends through ministry reports, donations began toward philanthropic activities in Ukraine."
+			title = "Kim and Wes Janzen went to Kyiv for the first time together."
+			description = "They also delighted in Kyiv Symphony Orchestra and Chorus outreach to the poor and needy.  They witnessed an extraordinary outreach to widows and orphans.  Wes was appointed Principle Guest Conductor of the Kyiv Symphony Orchestra and Chorus.  Kim participated through singing and began to teach Bible lessons on a regular basis to widows, orphans and children."
 
 		[[params.about.events]]
 			img = "3.jpg"
-			date = "2013"
-			title = "EuroMaidan"
-			description = "The EuroMaidan protests."
+			date = "2008-2012"
+			title = "Continued short-term work."
+			description = "The Janzen family continued to serve as “short term” missionary volunteers in Ukraine.  Kim’s work as mentor and Bible teacher expanded significantly.  Wes continued to conduct many KSOC performances, preach and teach.  Several visits are thanks  to Trinity Western University graciously allowing times for summer scholarly activity (conducting) and granting several leaves of absence."
 
 		[[params.about.events]]
 			img = "4.jpg"
-			date = "2014-2016"
-			title = "War in Donbas"
-			description = "War is Currently in Donbas, making a big refugee crisis that Music Mission Ukraine Canada is responding to."
+			date = "2012"
+			title = "Transitions"
+			description = "Kim was appointed Interim Director of Outreach Ministries and Wes Interim Conductor and Artistic Director of Kyiv Symphony Orchestra and Chorus and Interim President of Music Mission Kiev."
+
+			[[params.about.events]]
+				img = "5.jpg"
+				date = "2012"
+				title = "International Concerts"
+				description = "Wes Janzen brought Kyiv Symphony Orchestra and Chorus to Tallin, Estonia for a major summer missions conference.  In fall, Wes and Kim Janzen brought Kyiv Symphony Orchestra and Chorus to Canada for the first time."
+
+				[[params.about.events]]
+					img = "6.jpg"
+					date = "2013"
+					title = "Leap of Faith"
+					description = "In November, Wes and Kim Janzen accepted full time missionary positions in Ukraine and Wes announced his early retirement from Trinity Western University.  Kim was appointed Associate Director of Outreach Ministries, Wes Conductor and Artistic Director of Kyiv Symphony Orchestra and Chorus and President of Music Mission Kiev and Director of Music Mission Ukraine Canada."
+
+					[[params.about.events]]
+						img = "7.jpg"
+						date = "2014"
+						title = "International Concerts"
+						description = "Wes and Kim Janzen brought 42 members of Kyiv Symphony Orchestra and Chorus across Canada, sharing music, the gospel of Jesus Christ, and stories of God’s grace.  The ministries of Music Mission Ukraine Canada were shared with many Canadians.  Prof. Dr. Wes Janzen was appointed Professor Emeritus, Trinity Western University."
+
+						[[params.about.events]]
+							img = "8.png"
+							date = "2015"
+							title = "Ukrainian Outreach"
+							description = "Music Mission Ukraine Canada contributed uniquely to the outreach of Kyiv Symphony Orchestra and Chorus, with friendship evangelism concerts going beyond Kyiv to other cities in Ukraine for the first time.  The gospel was shared through music and the spoken word in Zaparojhe, Lviv, Irpin and Lutsk.  Music Mission Ukraine Canada embraced another unique and new outreach, serving thousand of internally displaced people who fled their homes due to foreign aggression and war."
 
 
 	# Team section
 	[params.team]
 		title = "Our amazing team"
-		subtitle = "Lorem ipsum dolor sit amet consectetur."
-		description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+		subtitle = ""
+		description = ""
 
 		# All team member's pictures are stored under 'static/img/team'.
 		# Replace them with your own too.
 		[[params.team.members]]
-			img = "1.jpg"
-			name = "Wes Janzen"
-			position = "President"
-			social = [
-				["fa-twitter", "#"],
-				["fa-facebook", "#"],
-				["fa-linkedin", "#"]
-			]
-
-		[[params.team.members]]
-			img = "2.jpg"
+			img = "Kim.jpg"
 			name = "Kim Janzen"
-			position = "Outreach"
+			position = "Missionary"
 			social = [
-				["fa-twitter", "#"],
-				["fa-facebook", "#"],
-				["fa-linkedin", "#"]
+			#	["fa-twitter", "#"],
+			#	["fa-facebook", "#"],
+			#	["fa-linkedin", "#"]
 			]
 
 		[[params.team.members]]
-			img = "3.jpg"
-			name = "Michael Berg"
-			position = "Board Chairman"
+			img = "Wes.jpg"
+			name = "Wes Janzen"
+			position = "Missionary"
 			social = [
-				["fa-twitter", "#"],
-				["fa-facebook", "#"],
-				["fa-linkedin", "#"]
+			#	["fa-twitter", "#"],
+			#	["fa-facebook", "#"],
+			#	["fa-linkedin", "#"]
+			]
+
+			[[params.team.members]]
+				img = "Board.jpg"
+				name = "KSOC"
+				position = "Kyiv Symphony Orchestra and Chorus"
+				social = [
+]
+		[[params.team.members]]
+			img = "Board.jpg"
+			name = "MMUC Board"
+			position = "Board"
+			social = [
+			#	["fa-twitter", "#"],
+			#	["fa-facebook", "#"],
+			#	["fa-linkedin", "#"]
 			]
 
 #Statement Section
@@ -248,9 +280,9 @@ googleAnalytics = ""
 #			icon = "fa-twitter"
 #			link = "#"
 
-		[[params.footer.social]]
-			icon = "fa-facebook"
-			link = "#"
+	#	[[params.footer.social]]
+	#		icon = "fa-facebook"
+	#		link = "#"
 
 	#	[[params.footer.social]]
 	#		icon = "fa-linkedin"
