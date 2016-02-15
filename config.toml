@@ -120,49 +120,49 @@ googleAnalytics = ""
 		# All images are stored under 'static/img/about'.
 		# Replace them with your own.
 		[[params.about.events]]
-			img = "1.jpg"
+			img = "2006.jpg"
 			date = "2006"
 			title = "Early Concert Collaborations"
 			description = "Wes Janzen guest conducted Kyiv Symphony Orchestra and Chorus for the first time in their first-ever performance of Haydn Creation.  This sacred masterpiece, taken from the Bible and Milton’ Paradise Lost, brought tears of joy to  Kyiv Symphony Orchestra and Chorus musicians.  Creation was essentially new to them as it had been previously suppressed by communist authorities.  After this first project with Kyiv Symphony Orchestra and Chorus, Wes returned to Kyiv each year, with duration of visits increasing year by year.  Wes and Kim Janzen continued to serve Missions Fest Vancouver and teach at Trinity Western University."
 
 		[[params.about.events]]
-			img = "2.jpg"
+			img = "2007.jpg"
 			date = "2007"
 			title = "Kim and Wes Janzen went to Kyiv for the first time together."
 			description = "They also delighted in Kyiv Symphony Orchestra and Chorus outreach to the poor and needy.  They witnessed an extraordinary outreach to widows and orphans.  Wes was appointed Principle Guest Conductor of the Kyiv Symphony Orchestra and Chorus.  Kim participated through singing and began to teach Bible lessons on a regular basis to widows, orphans and children."
 
 		[[params.about.events]]
-			img = "3.jpg"
+			img = "2008.jpg"
 			date = "2008-2012"
 			title = "Continued short-term work."
 			description = "The Janzen family continued to serve as “short term” missionary volunteers in Ukraine.  Kim’s work as mentor and Bible teacher expanded significantly.  Wes continued to conduct many KSOC performances, preach and teach.  Several visits are thanks  to Trinity Western University graciously allowing times for summer scholarly activity (conducting) and granting several leaves of absence."
 
 		[[params.about.events]]
-			img = "4.jpg"
+			img = "2012.jpg"
 			date = "2012"
 			title = "Transitions"
 			description = "Kim was appointed Interim Director of Outreach Ministries and Wes Interim Conductor and Artistic Director of Kyiv Symphony Orchestra and Chorus and Interim President of Music Mission Kiev."
 
 			[[params.about.events]]
-				img = "5.jpg"
+				img = "2012b.jpg"
 				date = "2012"
 				title = "International Concerts"
 				description = "Wes Janzen brought Kyiv Symphony Orchestra and Chorus to Tallin, Estonia for a major summer missions conference.  In fall, Wes and Kim Janzen brought Kyiv Symphony Orchestra and Chorus to Canada for the first time."
 
 				[[params.about.events]]
-					img = "6.jpg"
+					img = "2013.jpg"
 					date = "2013"
 					title = "Leap of Faith"
 					description = "In November, Wes and Kim Janzen accepted full time missionary positions in Ukraine and Wes announced his early retirement from Trinity Western University.  Kim was appointed Associate Director of Outreach Ministries, Wes Conductor and Artistic Director of Kyiv Symphony Orchestra and Chorus and President of Music Mission Kiev and Director of Music Mission Ukraine Canada."
 
 					[[params.about.events]]
-						img = "7.jpg"
+						img = "2014.jpg"
 						date = "2014"
 						title = "International Concerts"
 						description = "Wes and Kim Janzen brought 42 members of Kyiv Symphony Orchestra and Chorus across Canada, sharing music, the gospel of Jesus Christ, and stories of God’s grace.  The ministries of Music Mission Ukraine Canada were shared with many Canadians.  Prof. Dr. Wes Janzen was appointed Professor Emeritus, Trinity Western University."
 
 						[[params.about.events]]
-							img = "8.png"
+							img = "2015.png"
 							date = "2015"
 							title = "Ukrainian Outreach"
 							description = "Music Mission Ukraine Canada contributed uniquely to the outreach of Kyiv Symphony Orchestra and Chorus, with friendship evangelism concerts going beyond Kyiv to other cities in Ukraine for the first time.  The gospel was shared through music and the spoken word in Zaparojhe, Lviv, Irpin and Lutsk.  Music Mission Ukraine Canada embraced another unique and new outreach, serving thousand of internally displaced people who fled their homes due to foreign aggression and war."
@@ -177,7 +177,7 @@ googleAnalytics = ""
 		# All team member's pictures are stored under 'static/img/team'.
 		# Replace them with your own too.
 		[[params.team.members]]
-			img = "Kim.jpg"
+			img = "kim.jpg"
 			name = "Kim Janzen"
 			position = "Missionary"
 			social = [
@@ -187,7 +187,7 @@ googleAnalytics = ""
 			]
 
 		[[params.team.members]]
-			img = "Wes.jpg"
+			img = "wes.jpg"
 			name = "Wes Janzen"
 			position = "Missionary"
 			social = [
@@ -197,13 +197,13 @@ googleAnalytics = ""
 			]
 
 			[[params.team.members]]
-				img = "Board.jpg"
+				img = "board.jpg"
 				name = "KSOC"
 				position = "Kyiv Symphony Orchestra and Chorus"
 				social = [
 ]
 		[[params.team.members]]
-			img = "Board.jpg"
+			img = "board.jpg"
 			name = "MMUC Board"
 			position = "Board"
 			social = [
