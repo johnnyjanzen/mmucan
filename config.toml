@@ -177,7 +177,7 @@ googleAnalytics = ""
 		# All team member's pictures are stored under 'static/img/team'.
 		# Replace them with your own too.
 		[[params.team.members]]
-			img = "kim.jpg"
+			img = "Kim.jpg"
 			name = "Kim Janzen"
 			position = "Missionary"
 			social = [
@@ -187,7 +187,7 @@ googleAnalytics = ""
 			]
 
 		[[params.team.members]]
-			img = "wes.jpg"
+			img = "Wes.jpg"
 			name = "Wes Janzen"
 			position = "Missionary"
 			social = [
@@ -197,13 +197,13 @@ googleAnalytics = ""
 			]
 
 			[[params.team.members]]
-				img = "board.jpg"
+				img = "Board.jpg"
 				name = "KSOC"
 				position = "Kyiv Symphony Orchestra and Chorus"
 				social = [
 ]
 		[[params.team.members]]
-			img = "board.jpg"
+			img = "Board.jpg"
 			name = "MMUC Board"
 			position = "Board"
 			social = [
