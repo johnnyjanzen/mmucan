@@ -1,9 +1,0 @@
-+++
-date = "2016-01-25T12:27:46+02:00"
-draft = false
-title = "IDP mission work"
-description = "a bit more about the recent...."
-
-+++
-In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . . In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .
-In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC wil  l be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .  Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . . utumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .In Autumn 2016 the KSOC will be coming to canada . . .
