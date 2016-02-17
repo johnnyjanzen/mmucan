@@ -1,6 +1,7 @@
 prose:
   rooturl: 'content'
   media: 'static/images'
+  siteurl: 'http://johnnyjanzen.github.io/mmucan/'
   metadata:
     content/post:
       - name: "title"
