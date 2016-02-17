@@ -29,10 +29,8 @@ prose:
           label: "Date"
           placeholder: "Date in format yyyy-mm-dd."
 
-      
-            - draft: "false"
-              value: "false"
-          alterable: True
+
+          
     static:
       - name: "url"
         field:
