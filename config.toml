@@ -66,17 +66,17 @@ googleAnalytics = ""
             [[params.services.row.list]]
                 icon = "fa-group"
                 title = "Internally Displaced People"
-                description = "Since 2014, Music Mission Ukraine has been caring for thousands of internally displaced Ukrainians.  These are people who have fled their homes, often with only the clothes on their back.  Some live in Kyiv.  Others live near the war zone.  MMUC sends blankets, Bibles, candles, food, medications and other essential living supplies to those in need.  Many of these are elderly widows.  Programs serving internally displaced people in Kyiv include members of KSOC, who bring comfort through prayers, music and music education activities for IDP children."
+                description = "Since 2014, Music Mission Ukraine has been caring for thousands of internally displaced Ukrainians.  These are people who have fled their homes, often with only the clothes on their back because of the war raging in Ukraine.  Some live in Kyiv.  Others live near the war zone.  MMUC sends blankets, Bibles, candles, food, medications and other essential living supplies to those in need.  Many of these are elderly widows.  Programs serving internally displaced people in Kyiv include members of KSOC, who bring comfort through prayers, music, Bible and music education activities for IDP children."
 
 								[[params.services.row.list]]
 		                icon = "fa-music"
 		                title = "Kyiv Symphony Orchestra and Chorus (KSOC)"
-		                description = "The Kyiv Symphony Orchestra and Chorus (KSOC) is the musical arm of MMUC.  KSOC shares friendship evangelism concerts throughly Ukraine.  Recent Music Mission Ukraine Canada sponsored concerts in Ukraine included Zaparozhe, Lviv, Irpin and Lutsk.  KSOC also travels to Canada from time to time to share the gospel and stories of God’s grace."
+		                description = "The Kyiv Symphony Orchestra and Chorus (KSOC) is the musical arm of MMUC.  KSOC shares friendship evangelism concerts throughout Ukraine.  Recently Music Mission Ukraine Canada sponsored concerts in Ukraine including Zaparozhe, Lviv, Irpin and Lutsk.  KSOC also travels to Canada from time to time to share the gospel and stories of God’s grace."
 
             [[params.services.row.list]]
                 icon = "fa-book"
                 title = "Evangelism and discipleship"
-                description = "Evangelism and discipleship are core to all Music Mission Ukraine Canada activities.  Bible distribution and Bible teaching are part of all of our programs.  All friendship-evangelism outreach concerts of the Kyiv Symphony Orchestra and Chorus are rich in Biblical content.  Many concerts are sung in the Ukrainian language, with words projected on large screen to enhance clarity and understanding.  MMUC missionary Kim Janzen currently leads a weekly prayer meeting of widows, a weekly “Experiencing God” Bible study for pensioners, and two Saturday morning Bible lessons that reach over 400 pensioners each week."
+                description = "Evangelism and discipleship are core to all Music Mission Ukraine Canada activities.  Bible distribution and Bible teaching are part of all of our programs.  All friendship-evangelism outreach concerts of the Kyiv Symphony Orchestra and Chorus are rich in Biblical content.  Many concerts are sung in the Ukrainian language, with words projected on large screen to enhance clarity and understanding.  MMUC missionary Kim Janzen currently leads a weekly prayer meeting of widows, a weekly “Experiencing God” Bible study for pensioners, and two Saturday morning Bible lessons that reach over 400 pensioners each week, and a weekly Bible study for youth."
 
 
 								[[params.services.row.list]]
