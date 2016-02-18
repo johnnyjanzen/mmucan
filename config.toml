@@ -197,7 +197,7 @@ googleAnalytics = ""
 			]
 
 			[[params.team.members]]
-				img = "Board.jpg"
+				img = "Ksoc.jpg"
 				name = "KSOC"
 				position = "Kyiv Symphony Orchestra and Chorus"
 				social = [
