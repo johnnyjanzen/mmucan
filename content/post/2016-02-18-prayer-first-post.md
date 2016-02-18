@@ -5,6 +5,7 @@ published: false
 title: "Prayer: First Post"
 ---
 
+
 1.  Pray for Wes and Kim Janzen, your Canadian Music Mission Ukraine Canada missionaries to Ukraine, that we would be faithful to the calling that we have received from the Lord.
  
 2.  Pray that our team will be led of the Holy Spirit, and recognize God working, that we may join Him.  While doors are now open to serve in Ukraine, we do not take this for granted.  Pray for open hearts, that listeners will be open and receptive to the gospel of Jesus Christ.  Pray for our friendship-evangelism concert events and Wes as he conducts and speaks. Pray for Kim as she teaches literally hundreds, each week.  Pray for discernment in friendships, invitations and opportunities.
@@ -17,7 +18,7 @@ title: "Prayer: First Post"
  
 6.  Pray for protection.  There is an ongoing conflict in Ukraine.  Pray that the Lord will keep our people safe from those who might seek to hurt them.  Pray for safety in travel.  Some of our team members go to places of conflict.
  
-7  Pray for refreshment and rest.  “We also pray that you will be strengthened with His glorious power so that you will have all the patience and endurance you need.  May you be filled with joy”  Col 1:11.  We are normal people who deal with normal challenges, stresses and difficulties.  Missionaries can struggle with these issues and feel somewhat alone, away from family members.  Pray that God will encourage us with the knowledge that others are praying for us.
+7.  Pray for refreshment and rest.  “We also pray that you will be strengthened with His glorious power so that you will have all the patience and endurance you need.  May you be filled with joy”  Col 1:11.  We are normal people who deal with normal challenges, stresses and difficulties.  Missionaries can struggle with these issues and feel somewhat alone, away from family members.  Pray that God will encourage us with the knowledge that others are praying for us.
  
 8.  Pray for Ukraine.  Pray for peace in the hearts of Ukrainians.  Pray for peace in Ukraine.  Pray for the traumatized people that we serve.
  
