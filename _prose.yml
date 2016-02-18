@@ -5,6 +5,7 @@ prose:
   ignore:
     - _prose.yml
     - README.md
+    - .gitignore
     - wercker.yml
     - /data
     - /static
