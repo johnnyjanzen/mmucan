@@ -1,7 +1,15 @@
 prose:
-  rooturl: 'content/post'
+  rooturl: ''
   media: 'static/images'
   siteurl: 'http://johnnyjanzen.github.io/mmucan/'
+  ignore:
+    - _prose.yml
+    - README.md
+    - wercker.yml
+    - /data
+    - /static
+    - /layouts
+    - /themes
   metadata:
     content/post:
       - name: "title"
