@@ -9,5 +9,6 @@ title: "THIS IS THE TITLE!"
 Normal Text
 ### Header 3
 **Bold text**
+![asdf.jpg](images/asdf.jpg)
 
 _italics_
