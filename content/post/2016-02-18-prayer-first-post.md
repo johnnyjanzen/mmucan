@@ -1,9 +1,10 @@
 ---
-description: Prayer Requests
+description: "Pray for Wes and Kim Janzen, your Canadian Music Mission Ukraine Canada missionaries to Ukraine . . ."
 date: "2016-02-18"
 published: false
-title: "Prayer: First Post"
+title: Prayer
 ---
+
 
 
 1.  Pray for Wes and Kim Janzen, your Canadian Music Mission Ukraine Canada missionaries to Ukraine, that we would be faithful to the calling that we have received from the Lord.
