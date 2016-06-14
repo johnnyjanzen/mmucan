@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://johnnyjanzen.github.io/mmucan/"
+baseurl = "mmucanada.org"
 languageCode = "en-us"
 title = "MMUC"
 theme = "hugo-agency-theme"
