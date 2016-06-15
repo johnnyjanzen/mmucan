@@ -1,5 +1,6 @@
 # Site settings
 baseurl = "http://johnnyjanzen.github.io/mmucan/"
+canonifyurls: true
 languageCode = "en-us"
 title = "MMUC"
 theme = "hugo-agency-theme"
