@@ -10,7 +10,7 @@
 
       </div>
       <div class="row">
-          <div class="col-lg-8 col-lg-offset-2 text-center">
+          <div class="col-lg-8 col-lg-offset-2 text-left">
               <p class="large text-muted">{{ with .Site.Params.statement.description }}{{ . | markdownify }}{{ end }}</p>
           </div>
       </div>
@@ -41,11 +41,11 @@
                         </div>
                     </li>
                     {{ end }}
-                    <!--li class="timeline-inverted">
+                    <li class="timeline-inverted">
                         <div class="timeline-image">
                             <h4>{{ with .Site.Params.about.endpoint }}{{ . | markdownify }}{{ end }}</h4>
                         </div>
-                    </li-->
+                    </li>
                 </ul>
             </div>
         </div>
