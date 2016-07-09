@@ -72,7 +72,7 @@ googleAnalytics = ""
 								[[params.services.row.list]]
 		                icon = "fa-music"
 		                title = "Kyiv Symphony Orchestra and Chorus (KSOC)"
-		                description = "The Kyiv Symphony Orchestra and Chorus (KSOC) is the musical arm of MMUC.  KSOC shares friendship evangelism concerts throughout Ukraine.  Recently Music Mission Ukraine Canada sponsored concerts in Ukraine including Zaparozhe, Lviv, Irpin and Lutsk.  KSOC also travels to Canada from time to time to share the gospel and stories of God’s grace."
+		                description = "The Kyiv Symphony Orchestra and Chorus (KSOC) is the musical arm of MMUC.  KSOC shares friendship evangelism concerts throughout Ukraine.  Recently Music Mission Ukraine Canada sponsored concerts in Ukraine including Zaparojhe, Lviv, Irpin, Lutsk, Ostroh National University and Rivne..  KSOC also travels to Canada from time to time to share the gospel and stories of God’s grace."
 
             [[params.services.row.list]]
                 icon = "fa-book"
@@ -166,7 +166,7 @@ googleAnalytics = ""
 							img = "2015.png"
 							date = "2015"
 							title = "Ukrainian Outreach"
-							description = "Music Mission Ukraine Canada contributed uniquely to the outreach of Kyiv Symphony Orchestra and Chorus, with friendship evangelism concerts going beyond Kyiv to other cities in Ukraine for the first time.  The gospel was shared through music and the spoken word in Zaparojhe, Lviv, Irpin and Lutsk.  Music Mission Ukraine Canada embraced another unique and new outreach, serving thousand of internally displaced people who fled their homes due to foreign aggression and war."
+							description = "Music Mission Ukraine Canada contributed uniquely to the outreach of Kyiv Symphony Orchestra and Chorus, with friendship evangelism concerts going beyond Kyiv to other cities in Ukraine for the first time. The gospel was shared through music and the spoken word in Zaparojhe, Lviv, Irpin, Lutsk, Ostroh National University and Rivne. Music Mission Ukraine Canada embraced another unique and new outreach, serving thousand of internally displaced people who fled their homes due to foreign aggression and war."
 
 
 	# Team section
@@ -223,7 +223,7 @@ googleAnalytics = ""
 				[params.calendar]
 					title = "Fall 2016 Canada Tour"
 					subtitle = ""
-					
+
 
 
 
@@ -276,7 +276,7 @@ googleAnalytics = ""
 
 	# Footer section
 	[params.footer]
-		copyright = "© 2016"
+		copyright = ""
 
 #		[[params.footer.social]]
 #			icon = "fa-twitter"
