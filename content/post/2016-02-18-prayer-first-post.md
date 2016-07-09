@@ -2,7 +2,7 @@
 description: >-
   Pray for Wes and Kim Janzen, your Canadian Music Mission Ukraine Canada
   missionaries to Ukraine . . .
-date: '2016-02-18'
+date: '2016-07-05'
 published: false
 title: Prayer
 ---
