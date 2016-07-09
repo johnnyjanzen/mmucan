@@ -1,6 +1,8 @@
 ---
-description: "Pray for Wes and Kim Janzen, your Canadian Music Mission Ukraine Canada missionaries to Ukraine . . ."
-date: "2016-02-18"
+description: >-
+  Pray for Wes and Kim Janzen, your Canadian Music Mission Ukraine Canada
+  missionaries to Ukraine . . .
+date: '2016-07-05'
 published: false
 title: Prayer
 ---
@@ -28,6 +30,6 @@ title: Prayer
  
 10.  Pray for our fall 2016 Canadian tour planning.  We look forward to bringing 42 exceptional Ukrainian musicians across Canada, starting in Toronto and ending in Vancouver.  We will again share wonderful music, stories of God’s grace, and the gospel of the Lord Jesus Christ at each concert.  This is our calling.
  
-11.  Pray for our Music Mission Ukraine Canada board as they give overall leadership to the mission;  Michael Berg, Bill Dyck, Al Mitton, Richard Dodding, Joan Pauls, Arlene Dodding, John Thiessen, Rita Thiessen, Henry Esau, Lynda Esau, Victor Pauls, Kim Janzen, Wes Janzen.
+11.  Pray for our Music Mission Ukraine Canada board as they give overall leadership to the mission;  Michael Berg, Bill Dyck, Al Mitton, Richard Dodding, Arlene Dodding, John Thiessen, Rita Thiessen, Henry Esau, Lynda Esau, Kim Janzen, Wes Janzen.
  
 12.  Pray for those who give financially.  Without ongoing financial support the ministries of Music Mission Ukraine Canada would not be possible.
