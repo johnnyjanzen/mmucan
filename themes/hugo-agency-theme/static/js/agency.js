@@ -29,6 +29,7 @@ $(document).ready(function(){
     $('#Designation').on('change', function() {
       if ( this.value == '0')
       {
+        console.log("0");
         $("#paypal-janzen").hide();
         $("#paypal-ksoc").hide();
         $("#paypal-humanitarian").hide();
@@ -36,6 +37,7 @@ $(document).ready(function(){
       }
       if ( this.value == '1')
       {
+        console.log("1");
         $("#paypal-general").hide();
 
         $("#paypal-ksoc").hide();
@@ -44,6 +46,7 @@ $(document).ready(function(){
       }
       if ( this.value == '2')
       {
+        console.log("2");
         $("#paypal-general").hide();
         $("#paypal-janzen").hide();
 
@@ -52,6 +55,7 @@ $(document).ready(function(){
       }
       if ( this.value == '3')
         {
+          console.log("3");
         $("#paypal-general").hide();
         $("#paypal-janzen").hide();
         $("#paypal-ksoc").hide();
