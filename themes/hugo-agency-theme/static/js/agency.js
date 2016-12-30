@@ -24,3 +24,39 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$(document).ready(function(){
+    $('#Designation').on('change', function() {
+      if ( this.value == '0')
+      {
+        $("#paypal-janzen").hide();
+        $("#paypal-ksoc").hide();
+        $("#paypal-humanitarian").hide();
+        $("#paypal-general").show();
+      }
+      if ( this.value == '1')
+      {
+        $("#paypal-general").hide();
+
+        $("#paypal-ksoc").hide();
+        $("#paypal-humanitarian").hide();
+        $("#paypal-janzen").show();
+      }
+      if ( this.value == '2')
+      {
+        $("#paypal-general").hide();
+        $("#paypal-janzen").hide();
+
+        $("#paypal-humanitarian").hide();
+         $("#paypal-ksoc").show();
+      }
+      if ( this.value == '3')
+        {
+        $("#paypal-general").hide();
+        $("#paypal-janzen").hide();
+        $("#paypal-ksoc").hide();
+        $("#paypal-humanitarian").show();
+      }
+
+    });
+});

@@ -876,3 +876,132 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+/*
+DROPDOWN BOX
+-------------------------*/
+.dropdown
+{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    margin: 10px 0 10px 10px;
+}
+
+/*
+SELECT TITLE
+-------------------------*/
+.select-title
+{
+    display: inline-block;
+    background-color: #f1f1f1;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(241, 241, 241)), to(rgb(208, 208, 208)));
+    background-image: -webkit-linear-gradient(top, rgb(241, 241, 241), rgb(208, 208, 208));
+    background-image: -moz-linear-gradient(top, rgb(241, 241, 241), rgb(208, 208, 208));
+    background-image: -o-linear-gradient(top, rgb(241, 241, 241), rgb(208, 208, 208));
+    background-image: -ms-linear-gradient(top, rgb(241, 241, 241), rgb(208, 208, 208));
+    background-image: linear-gradient(top, rgb(241, 241, 241), rgb(208, 208, 208));
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#f1f1f1', EndColorStr='#d0d0d0');
+    border: 1px solid #969696;
+    border-radius: 2px;
+    font: bold 13px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    color: #373737;
+    text-shadow: 0 1px 0 #eeeeee;
+    box-shadow: 0px 1px 0px #e5e5e5,
+                inset 0px 1px 0px #f9f9f9;
+    padding: 8px 16px 8px 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.select-title-active
+{
+    background-color: #d0d0d0;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(208, 208, 208)), to(rgb(241, 241, 241)));
+    background-image: -webkit-linear-gradient(top, rgb(208, 208, 208), rgb(241, 241, 241));
+    background-image: -moz-linear-gradient(top, rgb(208, 208, 208), rgb(241, 241, 241));
+    background-image: -o-linear-gradient(top, rgb(208, 208, 208), rgb(241, 241, 241));
+    background-image: -ms-linear-gradient(top, rgb(208, 208, 208), rgb(241, 241, 241));
+    background-image: linear-gradient(top, rgb(208, 208, 208), rgb(241, 241, 241));
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#d0d0d0', EndColorStr='#f1f1f1');
+
+}
+
+.select-title:after
+{
+    content: '\25BC';
+    font-size: 11px;
+    margin-left: 8px;
+}
+
+.select-title:hover
+{
+    box-shadow: 0px 0px 5px #97cdff;
+}
+
+/*
+SELECT OPTIONS
+-------------------------*/
+.select-options
+{
+    background: white;
+    border: 1px solid #dedede;
+    border-radius: 2px;
+    font: bold 13px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    color: #373737;
+    margin-top: 2px;
+    box-shadow: 4px 4px 10px #eaeaea;
+    cursor: default;
+    word-wrap: break-word;
+    display: inline-block;
+    position: absolute;
+    margin: 36px 0 0 0;
+}
+
+/*
+SELECT VALUE
+-------------------------*/
+.select-value
+{
+    border-bottom: 1px solid #dedede;
+    padding: 5px 16px 5px 16px;
+    margin: 0;
+}
+
+.select-value:last-child
+{
+    border-bottom: none;
+}
+
+.select-value:hover
+{
+    color: white;
+    background-color: #84d4fb;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(132, 212, 251)), to(rgb(81, 181, 231)));
+    background-image: -webkit-linear-gradient(top, rgb(132, 212, 251), rgb(81, 181, 231));
+    background-image: -moz-linear-gradient(top, rgb(132, 212, 251), rgb(81, 181, 231));
+    background-image: -o-linear-gradient(top, rgb(132, 212, 251), rgb(81, 181, 231));
+    background-image: -ms-linear-gradient(top, rgb(132, 212, 251), rgb(81, 181, 231));
+    background-image: linear-gradient(top, rgb(132, 212, 251), rgb(81, 181, 231));
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#84d4fb', EndColorStr='#51b5e7');
+}
+
+.select-value:active
+{
+    color: black;
+    background: white;
+}
+
+/*
+OUTPUT
+-------------------------*/
+p.mymeal
+{
+    float: left;
+    font: bold 13px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    color: #373737;
+    margin: 0 0 0 10px;
+}
