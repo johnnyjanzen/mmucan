@@ -11,7 +11,7 @@ body {
 .videowrapper { 
     float: none;
     clear: both;
-    width: 700px;<-- Added-->
+    width: 560px;<-- Added-->
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 25px;
